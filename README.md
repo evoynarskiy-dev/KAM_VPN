@@ -1,8 +1,4 @@
----
 
-### 📄 Готовый `README.md` на русском (копируй целиком):
-
-```markdown
 # ⚡ Автоматизированная VPN-Платформа и Инфраструктура Подписок
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://python.org)
